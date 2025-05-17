@@ -57,9 +57,9 @@ A Python-based web application that helps students and classes track their carbo
 The app uses standard emission factors:
 
 **Category**	**Emission Factor**
-Electricity	0.92 kg CO₂e per kWh
-Natural Gas	5.3 kg CO₂e per therm
-Gas Car	0.404 kg CO₂e per mile
+- Electricity	0.92 kg CO₂e per kWh
+- Natural Gas	5.3 kg CO₂e per therm
+   Gas Car	0.404 kg CO₂e per mile
 Digital Activities	Varies by activity
 *Global average comparison based on 1000 kg CO₂e/month per person.*
 
