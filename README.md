@@ -61,6 +61,7 @@ The app uses standard emission factors:
 - Natural Gas	5.3 kg CO₂e per therm
 - Gas Car	0.404 kg CO₂e per mile
 - Digital Activities	Varies by activity
+
 *Global average comparison based on 1000 kg CO₂e/month per person.*
 
 ## Educational Value 🎓
