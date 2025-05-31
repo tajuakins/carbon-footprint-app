@@ -8,6 +8,8 @@ A Python-based web application that helps students and classes track their carbo
 
 ![App Screenshot](screenshot.png) *(Replace with actual screenshot)*
 
+<a href="https://de.cyverse.org/instantlaunch/268f5f76-874c-11ef-a273-008cfa5ae621" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/BASH-terminal-white?style=plastic&logo=gnometerminal"></a>
+
 ## Features ✨
 
 - **Carbon Footprint Calculation**:
