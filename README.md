@@ -4,6 +4,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0%2B-FF4B4B)](https://streamlit.io)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
 <a href="https://de.cyverse.org/instantlaunch/268f5f76-874c-11ef-a273-008cfa5ae621" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/BASH-terminal-white?style=plastic&logo=gnometerminal"></a>
+<a href="https://de.cyverse.org/instantlaunch/2dd0d31e-7b4e-11ef-a0db-008cfa5ae621" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Datascience-latest-orange?style=plastic&logo=jupyter"></a>
 
 
 A Python-based web application that helps students and classes track their carbon footprint and learn about sustainability.
